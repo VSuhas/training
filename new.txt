@@ -1,1 +1,1 @@
-this is new text file.
+this is new text file . this is modified text in training branch.
